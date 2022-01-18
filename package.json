@@ -1,0 +1,28 @@
+{
+  "name": "adventofcode_day10",
+  "version": "1.0.0",
+  "description": "Day 10 challenge from adventofcode.com",
+  "homepage": "https://github.com/mvoss9000/adventofcode_day10",
+  "url": "https://github.com/mvoss9000/adventofcode_day10/issues",
+  "repository": "mvoss9000/adventofcode_day10",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "tape test.js",
+    "cov": "tap --coverage-report=html test.js"
+  },
+  "keywords": [
+    "adventofcode",
+    "day10",
+    "challenge",
+    "javascript",
+    "node",
+    "nodejs"
+  ],
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "author": "Matthew Voss",
+  "license": "ISC"
+}
